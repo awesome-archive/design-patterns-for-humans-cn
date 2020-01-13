@@ -8,6 +8,15 @@
 
 [![Build Status](https://travis-ci.org/guanguans/design-patterns-for-humans-cn.svg?branch=master)](https://travis-ci.org/guanguans/design-patterns-for-humans-cn)
 
+## 自荐项目
+
+* [soar-php](https://github.com/guanguans/soar-php) - 一个方便 sql 语句调优的 PHP 扩展包
+* [think-soar](https://github.com/guanguans/think-soar)- 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 `sql 语句评分`和对 `explain sql 信息解读`
+* [music-php](https://github.com/guanguans/music-php) - 一个命令行音乐下载器
+* [dnmp-plus](https://github.com/guanguans/dnmp-plus) - 一个 Docker 的 LNMP 一键安装开发环境，支持 xhgui、xhprof、tideways
+
+## 目录
+
 <!-- TOC updateOnSave:false -->
 
 - [注意](#注意)
@@ -2439,7 +2448,7 @@ $iosBuilder->build();
 
 ## 总结
 
-那就是把它包起来。我将继续改进这一点，因此您可能希望观看/加注此存储库以重新访问。此外，我计划对架构模式进行相同的编写，请继续关注它。
+我会持续改进，希望 `watch` 或者 `star`，以便下次访问。
 
 ## License
 
